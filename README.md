@@ -10,8 +10,10 @@
 
 - 📫 How to reach me **sumitsaini95488@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-0YEP1QIx4y37K7UeBd-bvtmbwhktBVb/view](https://drive.google.com/file/d/1-0YEP1QIx4y37K7UeBd-bvtmbwhktBVb/view)
+- 📄 Know about my experiences I think I am a very hard worker
+- ⚡ Fun fact **I think I'm funny and I spend lots of time in traveling.**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sumitsa1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitsa1234" height="30" width="40" /></a>
