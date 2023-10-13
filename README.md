@@ -4,14 +4,14 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umitsaini12&label=Profile%20views&color=0e75b6&style=flat" alt="umitsaini12" /> </p>
 
-- 🌱 I’m currently learning **Full Stack web development**
+- 🌱 I’m currently working **Techlious from Dehradun**
 
 - 👨‍💻 All of my projects are available at [https://curious-sunburst-62c482.netlify.app/](https://curious-sunburst-62c482.netlify.app/)
 
 - 📫 How to reach me **sumitsaini95488@gmail.com**
 
 - 📄 Know about my experiences I think I am a very hard worker
-- ⚡ Fun fact **I think I'm funny and I spend lots of time in traveling.**
+- ⚡ Fun fact **I think I'm funny and I spend lots of time traveling.**
 
   
 <h3 align="left">Connect with me:</h3>
