@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working **Techlious from Dehradun**
 
-- 👨‍💻 All of my projects are available at [https://sumit-dev-rose.vercel.app/](https://sumit-dev-rose.vercel.app/)
+- 👨‍💻 All of my details are available at [my portfolio](https://sumit-dev-rose.vercel.app/)
 
 
 - 📫 How to reach me **sumitsaini95488@gmail.com**
