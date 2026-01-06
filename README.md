@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently working **Techlious from Dehradun**
 
-- 👨‍💻 All of my projects are available at [https://curious-sunburst-62c482.netlify.app/](https://curious-sunburst-62c482.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sumit-dev-rose.vercel.app/](https://sumit-dev-rose.vercel.app/)
+
 
 - 📫 How to reach me **sumitsaini95488@gmail.com**
 
